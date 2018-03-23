@@ -1,3 +1,6 @@
 this is test
+<<<<<<< HEAD
 this is another line
 this is 3rd line
+=======
+>>>>>>> parent of c550555... added another line
